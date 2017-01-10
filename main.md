@@ -7,7 +7,7 @@ expressive.
 Despite this, macros are still a very undocumented feature of Haxe (although initiatives such as the [Haxe Cookbook](1)
 are starting to fix this), and, as such, I decided to share what I have learnt about them.
 
-(**Note**: I will be assuming a good grasp on Haxe syntax and it's workings, so I recommend only
+(**Note**: I will be assuming a good grasp on Haxe syntax and its workings, so I recommend only
 reading this if you've had some experience programming in Haxe.)
 
 ## What Are Haxe Macros
