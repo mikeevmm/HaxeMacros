@@ -143,7 +143,7 @@ class Test {
 }
 ```
 
-Neat! It works as expected. Remember, at compile time, this is *literally the same* as
+Neat! It works as expected. Remember, at run time, this is *literally the same* as
 
 ```haxe
 class Test {
