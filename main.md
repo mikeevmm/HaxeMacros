@@ -116,7 +116,7 @@ Finally, the function returns an `Expr`, which is to replace the macro function,
 var currentPosition = Context.currentPos();
 ```
 
-We'll be inserting an array declaration wherever the macro was called from, so we get that position
+We'll be inserting our constant wherever the macro was called from, so we get that position
 (which is also where are as we're running the macro).
 
 ```haxe
